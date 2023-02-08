@@ -6,5 +6,7 @@ public class Dugujiujian {
         System.out.println("孤");
         System.out.println("九");
         System.out.println("剑");
+
+        System.out.println("Test SSH");
     }
 }
