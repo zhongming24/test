@@ -8,5 +8,6 @@ public class Dugujiujian {
         System.out.println("剑");
 
         System.out.println("Test SSH");
+        System.out.println("Test SSH");
     }
 }
